@@ -1,0 +1,8 @@
+id,concepto,importe,moneda,fecha
+1,Supermercado Biedronka,150,PLN,2026-09-01
+2,Alquiler Habitacion,300,EUR,2026-09-02
+3,Tren a Varsovia,45,PLN,2026-09-05
+4,Cervezas con erasmus,60,PLN,2026-09-06
+5,Vuelo Ryanair,40,EUR,2026-09-10
+6,,80,PLN,2026-09-12
+7,Comedor Uni,ERROR,PLN,2026-09-15
