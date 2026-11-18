@@ -1,0 +1,8 @@
+id,concept,amount,currency,date
+1,Biedronka Supermarket,150,PLN,2026-09-01
+2,Room Rent,300,EUR,2026-09-02
+3,Train to Warsaw,45,PLN,2026-09-05
+4,Beers with Erasmus,60,PLN,2026-09-06
+5,Ryanair Flight,40,EUR,2026-09-10
+6,,80,PLN,2026-09-12
+7,Uni Canteen,ERROR,PLN,2026-09-15
